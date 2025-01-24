@@ -1,0 +1,7 @@
+C:\Users\179913\Desktop\FlappyBirdConsoleApp\FlappyBirdConsoleApp\obj\Debug\FlappyBirdConsoleApp.csproj.AssemblyReference.cache
+C:\Users\179913\Desktop\FlappyBirdConsoleApp\FlappyBirdConsoleApp\obj\Debug\FlappyBirdConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\179913\Desktop\FlappyBirdConsoleApp\FlappyBirdConsoleApp\bin\Debug\FlappyBirdConsoleApp.exe.config
+C:\Users\179913\Desktop\FlappyBirdConsoleApp\FlappyBirdConsoleApp\bin\Debug\FlappyBirdConsoleApp.exe
+C:\Users\179913\Desktop\FlappyBirdConsoleApp\FlappyBirdConsoleApp\bin\Debug\FlappyBirdConsoleApp.pdb
+C:\Users\179913\Desktop\FlappyBirdConsoleApp\FlappyBirdConsoleApp\obj\Debug\FlappyBirdConsoleApp.exe
+C:\Users\179913\Desktop\FlappyBirdConsoleApp\FlappyBirdConsoleApp\obj\Debug\FlappyBirdConsoleApp.pdb
